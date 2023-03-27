@@ -1,0 +1,1 @@
+mysql db name >> product (first create db in mysql by name product)
